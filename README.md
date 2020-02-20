@@ -1,7 +1,7 @@
 # m2i-jour1
 
 
-nouveau texte : crétaion readme 
+nouveau texte : crétaion reafme 
 
 
 
